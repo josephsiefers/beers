@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
 gem 'rails'
-gem 'pg'
+gem 'sqlite3'
 gem 'haml'
 gem 'sass-rails'
 gem 'compass-rails'
